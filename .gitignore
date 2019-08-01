@@ -1,0 +1,7 @@
+*.log
+wp-content/
+
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
